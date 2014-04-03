@@ -1,28 +1,13 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Ruby on Rails project that was built for Start Up Weekend : EDU Library Edition. 
 
-Things you may want to cover:
+A live demo of the app can be found at: http://www.stickybookmarks.co
 
-* Ruby version
+====
 
-* System dependencies
+The application itself is a web app that allows users to add books and bookmark scenes within the book. It's a crowdsourced project, so anyone can contribute.
 
-* Configuration
+====
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+The app was built by myself and <a href=https://github.com/programthis/>Kyle Bachan</a>. Development is ongoing with Kyle leading the app.
