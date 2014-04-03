@@ -10,4 +10,6 @@ The application itself is a web app that allows users to add books and bookmark 
 
 ====
 
-The app was built by myself and <a href=https://github.com/programthis/>Kyle Bachan</a>. Development is ongoing with Kyle leading the app.
+The app was built by myself and [https://github.com/programthis "Kyle Bachan"]. Development is ongoing with Kyle leading the app.
+
+ 
